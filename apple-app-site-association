@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "JZUX7Z6U42.de.clapp.handelsblatt.One-dev",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
