@@ -5,13 +5,7 @@
             {
                 "appID": "JZUX7Z6U42.com.buckitdream.BUCKiTDREAMS-dev",
                 "paths": [
-                    "/cmsid/*"
-                ]
-            },
-            {
-                "appID": "com.buckitdream.BUCKiTDREAMS-dev",
-                "paths": [
-                    "/cmsid/*"
+                    "*"
                 ]
             }
         ]
